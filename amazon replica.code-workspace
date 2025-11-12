@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../amazon/amazon-ui-replica/src/src"
+		},
+		{
+			"path": "../amazon/amazon-ui-replica/node_modules"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "amazon replica"
+	}
+}
